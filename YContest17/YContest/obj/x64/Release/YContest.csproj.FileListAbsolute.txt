@@ -1,0 +1,6 @@
+E:\Projects\YContest\YContest\bin\x64\Release\YContest.exe.config
+E:\Projects\YContest\YContest\bin\x64\Release\YContest.exe
+E:\Projects\YContest\YContest\bin\x64\Release\YContest.pdb
+E:\Projects\YContest\YContest\obj\x64\Release\YContest.csprojResolveAssemblyReference.cache
+E:\Projects\YContest\YContest\obj\x64\Release\YContest.exe
+E:\Projects\YContest\YContest\obj\x64\Release\YContest.pdb
